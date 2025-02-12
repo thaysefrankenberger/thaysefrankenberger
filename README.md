@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou Thayse!
 
-<!--
-**thaysefrankenberger/thaysefrankenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+💻 DevOps apaixonada por automação e infraestrutura como código.  
+📍 Baseado no Brasil.  
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/thayse-frankenberger-9832161b7/)  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+🔹 [Projeto 1 - Automação com Terraform](https://github.com/seu-usuario/projeto1)  
+🔹 [Projeto 2 - CI/CD com GitHub Actions](https://github.com/seu-usuario/projeto2)  
+🔹 [Projeto 3 - Monitoramento com Prometheus e Grafana](https://github.com/seu-usuario/projeto3)  
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thaysefrankenberger&show_icons=true&theme=dracula)
+
+---
+
+✉️ **Entre em contato:** [Email](mailto:thayse.frankenberger@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thayse-frankenberger-9832161b7/)  
